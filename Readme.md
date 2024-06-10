@@ -19,3 +19,7 @@
 `python3 rainfall_chat_app/app.py`
 
 #### Visit localhost:8000 to view the dashboard
+
+#### Dashboard Screenshot
+
+![alt text](https://github.com/Deltapimol/rainfall-record-assignment/blob/main/Dashboard.png)
